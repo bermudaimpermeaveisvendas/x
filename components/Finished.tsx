@@ -9,7 +9,7 @@ import logo from '../images/logo.png'
 
 export default function Finished() {
   const openWhatsapp = () => {
-    location.href = 'https://api.whatsapp.com/send?phone=62981087645&text=Solicitar%20Empr%C3%A9stimo!'
+    location.href = 'https://api.whatsapp.com/send?phone=5562981087645&text=Solicitar%20Empr%C3%A9stimo!'
   }
 
   return (
